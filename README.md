@@ -1,21 +1,21 @@
-# 🛡️ PhishShield - Phishing Website Detector
+# PhishShield - Phishing Website Detector
 
 A powerful phishing website detection tool built using Flask, Machine Learning, and the VirusTotal API. Designed with a sleek hacker-themed UI, it helps users check whether a URL is suspicious or safe in real-time.
 
 ---
 
-## 🔍 Features
+## Features
 
-- ⚡ **Real-time Phishing Detection**
-- 🤖 **Hybrid Detection System** (Machine Learning + VirusTotal API)
-- 🌐 **URL Preview** before analysis
-- 🎨 **Dark Hacker UI** (black & green theme)
-- 📊 **Detailed Scan Results**
-- 📈 **Locally Trained Model** with intelligent heuristics
+- **Real-time Phishing Detection**
+- **Hybrid Detection System** (Machine Learning + VirusTotal API)
+- **URL Preview** before analysis
+- **Dark Hacker UI** (black & green theme)
+- **Detailed Scan Results**
+- **Locally Trained Model** with intelligent heuristics
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **User enters a URL**
 2. The app:
@@ -26,7 +26,7 @@ A powerful phishing website detection tool built using Flask, Machine Learning, 
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 > ![Phishing Detector UI](phishing.png)  
 > *Legitimate URLs*
@@ -35,7 +35,7 @@ A powerful phishing website detection tool built using Flask, Machine Learning, 
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
