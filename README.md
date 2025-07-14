@@ -39,5 +39,5 @@ A powerful phishing website detection tool built using Flask, Machine Learning, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/phishing-detector.git
-cd phishing-detector
+git clone https://github.com/Sundxr2005/PhishShield---A-Website-Phishing-Detector.git
+cd PhishShield---A-Website-Phishing-Detector
