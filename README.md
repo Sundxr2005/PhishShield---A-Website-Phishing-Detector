@@ -29,8 +29,9 @@ A powerful phishing website detection tool built using Flask, Machine Learning, 
 ## 📸 Screenshot
 
 > ![Phishing Detector UI](phishing.png)  
+> *Legitimate URLs
 > ![Phishing Detector UI](legitimate.png)
-> *Black & Green hacker-style interface with URL input and scan results*
+> *Phishing URLs*
 
 ---
 
